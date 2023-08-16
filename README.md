@@ -3,7 +3,7 @@
 
 Predicting electricity consumption using advanced machine learning techniques for efficient energy management.
 
-![Project Banner](link-to-your-banner-image)
+![cham5a-1400x1525](https://github.com/Kaushal-205/Electric-Load-Prediction/assets/64428589/ba177c4f-44df-437c-956a-b44eca72b4b7)
 
 ## Table of Contents
 
